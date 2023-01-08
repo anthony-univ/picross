@@ -2,5 +2,5 @@
 
 Application web adaptée du jeu Picross
 
-# Auteur
+## Auteur
 Anthony gasca
